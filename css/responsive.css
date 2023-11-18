@@ -410,7 +410,7 @@
 
     .main-menu .navigation > li > a:before {
         position: absolute;
-        bottom: -50px;
+        bottom: -36px;
     }
 
     .sticky-header .main-menu .navigation>li {
